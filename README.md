@@ -1,6 +1,9 @@
 Applied-Data-Science-Capstone
 Finial Project of Coursera Data Science Project
 
+Applied Data Science Capstone.pdf
+
+
 Week 1 - Introduction
 Complete the Data Collection API Lab
 https://labs.cognitiveclass.ai/v2/tools/jupyterlab?ulid=ulid-0873642cfd4232ea1de5fbe8823c1c03f6f84b91
