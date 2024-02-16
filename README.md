@@ -2,6 +2,7 @@ Applied-Data-Science-Capstone
 Finial Project of Coursera Data Science Project
 
 Applied Data Science Capstone.pdf
+https://github.com/Gaukarna/Final-Project-Applied-Data-Science-Capstone/blob/main/Applied%20Data%20Science%20Capstone.pdf
 
 
 Week 1 - Introduction
